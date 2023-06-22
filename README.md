@@ -4,7 +4,7 @@ It's a 2 player ping pong game, where and user will be playing against computer.
 
 User can move use it's pad using the mouse and when ball strikes the pad it will rebound and go for the computer pad.
 
-If user or computer miss to hit the ball the other use will get a point.
+If user or computer miss to hit the ball the other user will get a point.
 
 With each collision of ball with the pad the speed of the ball increased to make the game more harder.
 
